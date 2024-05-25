@@ -1,0 +1,16 @@
+.cover {
+    height: 30vh;
+}
+
+.h1 {
+    padding-top: 10vh;
+}
+
+.table>tbody>tr>* {
+    font-size: 1.125rem;
+    padding: 1rem 0.5rem;
+}
+
+.table>tbody>tr>th {
+    padding-right: 1rem;
+}
