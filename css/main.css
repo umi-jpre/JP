@@ -58,16 +58,17 @@
 }
 
 .coverImg {
-    background: url('./images/cover.jpg') center / cover no-repeat;
+    background: url('../images/cover.jpg') center / cover no-repeat;
 }
 
 .aboutImg {
-    background: url('./images/h-about.jpg') center / cover no-repeat;
+    background: url('../images/h-about.jpg') center / cover no-repeat;
 }
 
 .servicesImg {
-    background: url('./images/h-services.jpg') center / cover no-repeat;
+    background: url('../images/h-services.jpg') center / cover no-repeat;
 }
+
 
 .h1 {
     color: #35475b;
